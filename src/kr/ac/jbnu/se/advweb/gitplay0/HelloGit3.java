@@ -4,7 +4,7 @@ public class HelloGit3 {
 
 	public static void main(String[] args) {
 		System.out.println("Hello Git!!");
-		//re-test
+		//re-test 뀨뀨까까
 		// how are you doing??
 	}
 }
