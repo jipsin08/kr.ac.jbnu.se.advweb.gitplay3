@@ -5,6 +5,7 @@ public class HelloGit4 {
 	public static void main(String[] args) {
 		System.out.println("Hello Git!!");
 		
+		//Test Àå½ÂÈÆ ¿¹¾²
 		// how are you doing??
 	}
 }
